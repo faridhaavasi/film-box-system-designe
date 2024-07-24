@@ -57,6 +57,18 @@ This project is aimed at developing a comprehensive movie and TV show system tha
 20. **Exclusive Content:**
     - Produce and offer exclusive content only available on your platform.
 
+### Subscription Features:
+21. **Subscription Plans:**
+    - Offer various subscription plans (monthly, yearly, etc.) with different pricing tiers and benefits.
+22. **Subscription Management:**
+    - Allow users to manage their subscriptions, including upgrading, downgrading, or canceling their plans.
+23. **Payment Integration:**
+    - Integrate with popular payment gateways (e.g., PayPal, Stripe) for secure and seamless transactions.
+24. **Trial Periods:**
+    - Provide free trial periods for new users to experience the platform before committing to a subscription.
+25. **Subscription Benefits:**
+    - Highlight the benefits of subscribing, such as ad-free viewing, access to exclusive content, and high-quality streaming options.
+
 ## Getting Started
 
 ### Prerequisites
@@ -66,6 +78,22 @@ This project is aimed at developing a comprehensive movie and TV show system tha
 1. Clone the repository:
    ```sh
    git clone https://github.com/faridhaavasi/film-box.git
+2. Navigate to the project directory:
+   ```sh
+   cd film-box
+3. Install the necessary dependencies:
+   ```sh
+   npm install
+   or
+   pip install -r requirements.txt
+4. Set up the database:
+   ```sh
+   # Add database setup instructions here
+5. Start the development server:
+   ```sh
+   npm start
+   or
+   python manage.py runserver
 ....................................................................
 # Film Box
 
@@ -126,6 +154,18 @@ This project is aimed at developing a comprehensive movie and TV show system tha
 20. **محتوای اختصاصی:**
     - تولید و ارائه محتوای اختصاصی که فقط در پلتفرم شما موجود باشد.
 
+### ویژگی‌های اشتراک:
+21. **طرح‌های اشتراک:**
+    - ارائه طرح‌های اشتراک متنوع (ماهانه، سالانه و غیره) با قیمت‌ها و مزایای مختلف.
+22. **مدیریت اشتراک:**
+    - امکان مدیریت اشتراک‌ها توسط کاربران شامل ارتقاء، کاهش یا لغو اشتراک.
+23. **یکپارچه‌سازی پرداخت:**
+    - یکپارچه‌سازی با درگاه‌های پرداخت محبوب (مانند PayPal و Stripe) برای تراکنش‌های امن و بی‌دردسر.
+24. **دوره‌های آزمایشی:**
+    - ارائه دوره‌های آزمایشی رایگان برای کاربران جدید تا قبل از تعهد به اشتراک، پلتفرم را تجربه کنند.
+25. **مزایای اشتراک:**
+    - برجسته‌سازی مزایای اشتراک مانند مشاهده بدون تبلیغات، دسترسی به محتوای اختصاصی و گزینه‌های پخش با کیفیت بالا.
+
 ## شروع
 
 ### پیش‌نیازها
@@ -135,3 +175,5 @@ This project is aimed at developing a comprehensive movie and TV show system tha
 1. مخزن را کلون کنید:
    ```sh
    git clone https://github.com/faridhaavasi/film-box.git
+2. به دایرکتوری پروژه بروید:
+
