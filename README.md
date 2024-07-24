@@ -78,22 +78,7 @@ This project is aimed at developing a comprehensive movie and TV show system tha
 1. Clone the repository:
    ```sh
    git clone https://github.com/faridhaavasi/film-box.git
-2. Navigate to the project directory:
-   ```sh
-   cd film-box
-3. Install the necessary dependencies:
-   ```sh
-   npm install
-   or
-   pip install -r requirements.txt
-4. Set up the database:
-   ```sh
-   # Add database setup instructions here
-5. Start the development server:
-   ```sh
-   npm start
-   or
-   python manage.py runserver
+
 ....................................................................
 # Film Box
 
